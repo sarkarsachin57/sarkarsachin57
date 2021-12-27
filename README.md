@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**sarkarsachin57/sarkarsachin57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👨‍💻 About Me
+Hi, I am Sachin Sarkar, Intern at iNeuron Intelligence Pvt. Ltd. and Developer of this Global Temperature Climate Change Time Series Analysis and Forecasting Application. I am a Data Science and AI enthusiast and Practitioner. Currently I am doing Bachelors in Data Science from MAKAUT, WB. I am an active contributor to Kaggle Community with holding the status of "Notebook Expert" with ranking less than 2k out of 200k (approx). From the begining of 2021, I am continuously doing multiple Internships and Projects related to Data Science, Machine Learning, Computer Vision, Natural Language Processing, Time Series, Business Intelligence, EDA etc and learning new things each and every day. As per now ( December 2021 ) I am Well experienced in working with Python and Python libraries like pandas, numpy , matplotlib, seaborn, plotly, sklearn, tensorflow, keras, cv2, nltk, flask, streamlit and many more. I am a quick learner and attentive worker.
