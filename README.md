@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## 👨‍💻 About Me
+
 I am Sachin Sarkar, a Data Science and AI enthusiast and Practitioner. <br>
 Currently I am doing Bachelors in Data Science from MAKAUT, WB. <br>
 I am an active contributor to Kaggle Community with holding the status of "Notebook Expert" with ranking less than 2k out of 200k (approx).<br>
