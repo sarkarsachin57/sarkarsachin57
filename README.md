@@ -1,23 +1,4 @@
-<html>
-  <head>
-    <style>
-    a.link-btn {
-        color: #fff;
-        background: #337ab7;
-        display:inline-block;
-        border: 1px solid #2e6da4;        
-        font: bold 14px Arial, sans-serif;
-        text-decoration: none;
-        border-radius: 2px;
-        padding: 6px 20px;
-    }
-    a.link-btn:hover {
-        background-color: #245582;
-        border-color: #1a3e5b;
-    }
-</style>
-  </head>
-  </body>
+
 ### Hi there 👋
 
 <!--
@@ -40,6 +21,9 @@ I am Well experienced in working with Python and Python libraries like pandas, n
 I am a quick learner and attentive worker.<br>
 
 
-<a href="https://www.linkedin.com/in/sachin-sarkar-aba74420b/" class="link-btn" target="_blank">LinkedIn</a>
-  </body>
-</html>
+<a href="https://www.linkedin.com/in/sachin-sarkar-aba74420b/" target="_blank">LinkedIn</a>
+
+<a href="https://www.kaggle.com/sachinsarkar" target="_blank">Kaggle</a>
+
+<a href="https://medium.com/@sachin.it.ds" target="_blank">Medium</a>
+  
