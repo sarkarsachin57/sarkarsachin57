@@ -23,8 +23,8 @@ I am a quick learner and attentive worker.<br>
 
 <a href="https://www.linkedin.com/in/sachin-sarkar-aba74420b/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="30px;"/> </a>&emsp; &ensp; 
-<a href="https://www.kaggle.com/sachinsarkar" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="30px;"/> </a>&emsp; &ensp; 
-<a href="https://medium.com/@sachin.it.ds" target="_blank"> <img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png" width="30px;"/></a>
+<a href="https://www.kaggle.com/sachinsarkar" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="50px;"/> </a>&emsp; &ensp; 
+<a href="https://medium.com/@sachin.it.ds" target="_blank"> <img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png" width="50px;"/></a>
   
 
 
