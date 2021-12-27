@@ -25,5 +25,5 @@ I am a quick learner and attentive worker.<br>
 <a href="https://www.kaggle.com/sachinsarkar" target="_blank"> Kaggle </a>
 <a href="https://medium.com/@sachin.it.ds" target="_blank"> Medium</a>
   
-<img src="./images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn](https://www.linkedin.com/in/sachin-sarkar-aba74420b/)
-![image](https://user-images.githubusercontent.com/83460431/147463698-53d41a43-497d-45f8-9872-e25c7f5d9b6f.png)(https://www.linkedin.com/in/sachin-sarkar-aba74420b/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="15px;"/> [LinkedIn](https://www.linkedin.com/in/sachin-sarkar-aba74420b/)
+
