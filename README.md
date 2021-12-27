@@ -19,7 +19,7 @@ I am an active contributor to Kaggle Community with holding the status of "Noteb
 I am continuously doing multiple Internships and Projects related to Data Science, Machine Learning, Computer Vision, Natural Language Processing, Time Series, Business Intelligence, EDA etc and learning new things each and every day. <br>
 I am Well experienced in working with Python and Python libraries like pandas, numpy , matplotlib, seaborn, plotly, sklearn, tensorflow, keras, cv2, nltk, flask, streamlit and many more. <br>
 I am a quick learner and attentive worker.<br>
-
+I love programming, solving machine learning problems and developing AI applications. 
 
 <a href="https://www.linkedin.com/in/sachin-sarkar-aba74420b/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="30px;"/> </a>&emsp; &ensp; 
