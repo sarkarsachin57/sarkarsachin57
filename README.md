@@ -21,7 +21,7 @@ I am Well experienced in working with Python and Python libraries like pandas, n
 I am a quick learner and attentive worker.<br>
 
 
-<a href="https://www.linkedin.com/in/sachin-sarkar-aba74420b/" target="_blank">LinkedIn</a>
-<a href="https://www.kaggle.com/sachinsarkar" target="_blank">Kaggle</a>
-<a href="https://medium.com/@sachin.it.ds" target="_blank">Medium</a>
+<a href="https://www.linkedin.com/in/sachin-sarkar-aba74420b/" target="_blank">LinkedIn </a>
+<a href="https://www.kaggle.com/sachinsarkar" target="_blank"> Kaggle </a>
+<a href="https://medium.com/@sachin.it.ds" target="_blank"> Medium</a>
   
