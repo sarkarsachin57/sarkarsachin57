@@ -25,3 +25,4 @@ I am a quick learner and attentive worker.<br>
 <a href="https://www.kaggle.com/sachinsarkar" target="_blank"> Kaggle </a>
 <a href="https://medium.com/@sachin.it.ds" target="_blank"> Medium</a>
   
+<img src="./images/logo-icons/linkedin.jpg" width="15px;"/> [LinkedIn](https://www.linkedin.com/in/sachin-sarkar-aba74420b/)
