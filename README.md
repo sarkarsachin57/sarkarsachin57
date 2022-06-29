@@ -36,7 +36,7 @@
 
 
 
-<h3 align="left">Area of Interest :</h3>
+<h3 align="left">Areas of Interest :</h3>
 
 ![](https://img.shields.io/badge/-Data_Science-%231a202c?style=flat-square&logo=#&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Machine_Learning-%23CC6699?style=flat-square&logo=#&logoColor=ffffff)
