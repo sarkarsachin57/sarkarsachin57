@@ -35,15 +35,21 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarkarsachin57&label=Profile%20views&color=0e75b6&style=flat" alt="sarkarsachin57" /> </p>
+<h3 align="left">Technical Skills :</h3>
 
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkarsachin57&show_icons=true&locale=en&layout=compact" alt="sarkarsachin57" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkarsachin57&show_icons=true&locale=en" alt="sarkarsachin57" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkarsachin57&" alt="sarkarsachin57" /></p>
+![](https://img.shields.io/badge/-Python-%231a202c?style=flat-square&logo=Python&logoColor=ffffff)
+![](https://img.shields.io/badge/-Pandas-%23CC6699?style=flat-square&logo=Pandas&logoColor=ffffff)
+![](https://img.shields.io/badge/-NumPy-%232C3A42?style=flat-square&logo=NumPy&logoColor=ffffff)
+![](https://img.shields.io/badge/-Scikit_Learn-%2300C7B7?style=flat-square&logo=ScikitLearn&logoColor=ffffff)
+![](https://img.shields.io/badge/-Tensorflow-%232c3e50?style=flat-square&logo=Tensorflow&logoColor=ffffff)
+![](https://img.shields.io/badge/-Keras-%23646CFF?style=flat-square&logo=Keras&logoColor=ffffff)
+![](https://img.shields.io/badge/-Pytorch-%232C3A42?style=flat-square&logo=Pytorch&logoColor=ffffff)
+![](https://img.shields.io/badge/-OpenCV-007ACC?style=flat-square&logo=OpenCV&logoColor=ffffff)
+![](https://img.shields.io/badge/-Spacy-%232c3e50?style=flat-square&logo=Spacy&logoColor=ffffff)
+![](https://img.shields.io/badge/-Streamlit-%23E44D27?style=flat-square&logo=Streamlit&logoColor=ffffff)
+![](https://img.shields.io/badge/-Flask-%231d365d?style=flat-square&logo=Flask&logoColor=ffffff)
+![](https://img.shields.io/badge/-Linux-%234B32C3?style=flat-square&logo=Linux&logoColor=ffffff)
+![](https://img.shields.io/badge/-MySQL-%231d365d?style=flat-square&logo=MySQL&logoColor=ffffff)
+![](https://img.shields.io/badge/-Git-FCA121?style=flat-square&logo=Git&logoColor=ffffff)
+![](https://img.shields.io/badge/-HTML-%231a202c?style=flat-square&logo=HTML5&logoColor=ffffff)
+![](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
