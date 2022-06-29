@@ -25,17 +25,6 @@
 <img align="centre" alt="Coding" width="800" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif">
 
 
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sachinsarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/arpan-datta-391311201" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sachinsarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arpandatta011" height="30" width="40" /></a>
-<a href="https://medium.com/@sachin.it.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpandatta011" height="30" width="40" /></a>
-</p>
-
-<br>
-
 <h3 align="left">Areas of Interest :</h3>
 
 ![](https://img.shields.io/badge/-Data_Science-%231a202c?style=flat-square&logo=#&logoColor=ffffff)
@@ -72,3 +61,14 @@
 ![](https://img.shields.io/badge/-Git-FCA121?style=flat-square&logo=Git&logoColor=ffffff)
 ![](https://img.shields.io/badge/-HTML-%231a202c?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sachinsarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/arpan-datta-391311201" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sachinsarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arpandatta011" height="30" width="40" /></a>
+<a href="https://medium.com/@sachin.it.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpandatta011" height="30" width="40" /></a>
+</p>
