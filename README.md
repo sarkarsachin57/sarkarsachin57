@@ -35,6 +35,25 @@
 </p>
 
 
+
+<h3 align="left">Area of Interest :</h3>
+
+![](https://img.shields.io/badge/-Data_Science-%231a202c?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Machine_Learning-%23CC6699?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Deep_Learning-%232C3A42?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Neural_Networks-%2300C7B7?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Pattern_Recognition-%232c3e50?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Computer_Vision-%23646CFF?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Image_Processing-%232C3A42?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Natural_Language_Processing-007ACC?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Recommendation_Systems-%232c3e50?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Text_Preprocessing-%23E44D27?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Web_Scraping-%231d365d?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Automaition-%234B32C3?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Data_Preprocessing-%231d365d?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Exploratory_Data_Analysis-FCA121?style=flat-square&logo=#&logoColor=ffffff)
+![](https://img.shields.io/badge/-Model_Deployment-%231a202c?style=flat-square&logo=#&logoColor=ffffff)
+
 <h3 align="left">Technical Skills :</h3>
 
 ![](https://img.shields.io/badge/-Python-%231a202c?style=flat-square&logo=Python&logoColor=ffffff)
