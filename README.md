@@ -34,7 +34,7 @@
 <a href="https://medium.com/@sachin.it.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpandatta011" height="30" width="40" /></a>
 </p>
 
-
+<br>
 
 <h3 align="left">Areas of Interest :</h3>
 
