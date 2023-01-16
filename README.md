@@ -1,26 +1,16 @@
 
-## Hi there 👋, I'm Sachin
+<h1 align = "center">Hi there 👋, I'm Sachin</h1>
+<h3 align = "center">A Passionate Machine Learning Engineer</h3>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
 <img align="centre" alt="Coding" width="800" src="https://miro.medium.com/max/1400/1*TPy4pf_P1QUNVZqzngjliA.gif">
 
-- I am **Sachin Sarkar**, a Data Science and AI enthusiast and Practitioner. <br>
-- I love programming, solving Data Science, Machine Learning problems, playing with Neural Networks and developing amazing AI applications. <br>
-- Currently I am doing Bachelors in Data Science from MAKAUT, WB. <br>
-- I am an active contributor to Kaggle Community with holding the status of "Notebook Expert" with ranking less than 2k out of 200k (approx).<br>
-- I am continuously doing multiple Internships and Projects related to Data Science, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series, Business Intelligence, EDA etc and learning new things each and every day. <br>
-- I am Well experienced in working with Python and Python libraries like pandas, numpy , matplotlib, seaborn, plotly, sklearn, tensorflow, keras, cv2, nltk, flask, streamlit and many more. <br>
-- I am a quick learner and attentive worker.<br>
+  - I am a Passionate Machine Learning Engineer with highly expertise in the field of Computer Vision and Artificial Intelligence. 
+  - I love developing AI applications or Pipelines or modelling and training Neural Networks to solve computer vision problems like Image Classification, Object Detection, Object Tracking, Image Segmentation, Image Generation, Image Fusion, Multi Sensor Fusion, Depth Estimation, Pose Estimation, Action Recognition, or anything relatable to Computer Vision. Not only Image but I have experience to work on lidar, radar point clouds, infrared, remote sensing datasets too to make a robust solution for the problem. 
+  - I am also very good at finding and debugging errors and issues in Python Programs or Scripts specially for Machine Learning and Neural Network modelling and related tasks.
+  - I like to be a part your organization with a lot eager to contribute as much I can. 
+
 
 <img align="centre" alt="Coding" width="800" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif">
 
