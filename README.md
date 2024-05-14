@@ -1,6 +1,6 @@
 
 <h1 align = "center">Hi there 👋, I'm Sachin</h1>
-<h3 align = "center">A Passionate Machine Learning Engineer</h3>
+<h3 align = "center">Senior ML Scientist Lead at Avawatz</h3>
 
 <br>
 
