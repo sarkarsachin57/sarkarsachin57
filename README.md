@@ -1,12 +1,12 @@
 
 <h1 align = "center">Hi there 👋, I'm Sachin</h1>
-<h3 align = "center">Senior ML Scientist Lead at Avawatz</h3>
+<h3 align = "center">Senior ML Scientist Lead at <img src="https://media.licdn.com/dms/image/D4E10AQHD3JPc_PLyPA/image-shrink_800/0/1714573805729?e=2147483647&v=beta&t=6hlZQ9ybpjxSHI_7q6CjsNaftLUQkl0rGKfeyNAFSYE" width="120" align="center"></h3> 
 
 <br>
 
 <img align="centre" alt="Coding" width="800" src="https://miro.medium.com/max/1400/1*TPy4pf_P1QUNVZqzngjliA.gif">
 
-  - I am a **Passionate Machine Learning Engineer** specialized in the field of **Computer Vision and Image Processing.**. 
+  - I am a **Passionate Machine Learning Scientist** specialized in the field of **Computer Vision and Image Processing.**. 
   - I love developing **AI applications or Pipelines** or **modelling and training Neural Networks** to solve computer vision problems like **Image Classification, Object Detection, Object Tracking, Image Segmentation, Image Generation, Image Fusion, Multi Sensor Fusion, Depth Estimation, Pose Estimation, Action Recognition, Remote Sensing Image Processing or anything in the field of Computer Vision**. Not only Image but I have experience to work on **lidar, radar point clouds, infrared, remote sensing datasets** too to make a robust solution for the problem. 
 
 <img align="centre" alt="Coding" width="800" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif">
